@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/main/resources/import.sql
 INSERT INTO tb_game_list (name) VALUES ('Aventura e RPG');
 INSERT INTO tb_game_list (name) VALUES ('Jogos de plataforma');
 
@@ -23,3 +24,6 @@ INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 7, 1);
 INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 8, 2);
 INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 9, 3);
 INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 10, 4);
+=======
+
+>>>>>>> 362b562898e847b48e093cf504e980b0ff9996a5:README.md
